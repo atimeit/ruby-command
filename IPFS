@@ -1,0 +1,16 @@
+#!/bin/bash
+
+alias 0='/opt/IPFS/0.rb'
+alias 1='/opt/IPFS/1.rb'
+alias 2='/opt/IPFS/2.rb'
+alias 3='/opt/IPFS/3.rb'
+alias 4='/opt/IPFS/4.rb'
+alias 5='/opt/IPFS/5.rb'
+alias 6='/opt/IPFS/6.rb'
+alias 7='/opt/IPFS/7.rb'
+alias 8='/opt/IPFS/8.rb'
+
+unalias 9 2>/dev/null
+unalias 10 2>/dev/null
+unalias 11 2>/dev/null
+unalias 12 2>/dev/null

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+alias 0='/opt/FABCAR/0.rb'
+alias 1='/opt/FABCAR/1.rb'
+alias 2='/opt/FABCAR/2.rb'
+alias 3='/opt/FABCAR/3.rb'
+alias 4='/opt/FABCAR/4.rb'
+alias 5='/opt/FABCAR/5.rb'
+alias 6='/opt/FABCAR/6.rb'
+alias 7='/opt/FABCAR/7.rb'
+alias 8='/opt/FABCAR/8.rb'
+alias 9='/opt/FABCAR/9.rb'
+
+unalias 10 2>/dev/null
+unalias 11 2>/dev/null
+unalias 12 2>/dev/null

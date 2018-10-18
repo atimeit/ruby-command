@@ -1,0 +1,16 @@
+#!/bin/bash
+
+alias 0='/opt/COMPOSER/0.rb'
+alias 1='/opt/COMPOSER/1.rb'
+alias 2='/opt/COMPOSER/2.rb'
+alias 3='/opt/COMPOSER/3.rb'
+alias 4='/opt/COMPOSER/4.rb'
+alias 5='/opt/COMPOSER/5.rb'
+
+unalias 6 2>/dev/null
+unalias 7 2>/dev/null
+unalias 8 2>/dev/null
+unalias 9 2>/dev/null
+unalias 10 2>/dev/null
+unalias 11 2>/dev/null
+unalias 12 2>/dev/null

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+alias 0='/opt/RESIZE-VBOX/0.rb'
+alias 1='/opt/RESIZE-VBOX/1.rb'
+alias 2='/opt/RESIZE-VBOX/2.rb'
+alias 3='/opt/RESIZE-VBOX/3.rb'
+
+unalias 4 2>/dev/null
+unalias 5 2>/dev/null
+unalias 6 2>/dev/null
+unalias 7 2>/dev/null
+unalias 8 2>/dev/null
+unalias 9 2>/dev/null
+unalias 10 2>/dev/null
+unalias 11 2>/dev/null
+unalias 12 2>/dev/null

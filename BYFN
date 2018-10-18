@@ -1,0 +1,16 @@
+#!/bin/bash
+
+alias 0='/opt/BYFN/0.rb'
+alias 1='/opt/BYFN/1.rb'
+alias 2='/opt/BYFN/2.rb'
+alias 3='/opt/BYFN/3.rb'
+alias 4='/opt/BYFN/4.rb'
+alias 5='/opt/BYFN/5.rb'
+alias 6='/opt/BYFN/6.rb'
+alias 7='/opt/BYFN/7.rb'
+alias 8='/opt/BYFN/8.rb'
+alias 9='/opt/BYFN/9.rb'
+alias 10='/opt/BYFN/10.rb'
+alias 11='/opt/BYFN/11.rb'
+
+unalias 12 2>/dev/null
